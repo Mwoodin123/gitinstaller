@@ -1,0 +1,10 @@
+.DS_Store
+*.pkg
+*.dmg
+/git_build
+disk-image/*.dmg
+disk-image/VERSION-*
+tmp/
+build
+MacOSX10.*
+stage/
